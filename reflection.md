@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+It was interesting experiementing with different parts of streamlit. i wasn't aware that you could grab specifc rows based on values in the cells. While this assignment doesnt appear to display the full potential of what could be done with these selections, I think it would be fun to explore further or have future work to capitalize on what could be done. This was also my first time using copilot and its great to see it work and how easily it is to naviagate. I was concerned with loading in different types of files but copilot not only explained it to me but also did it for me which was great to see.
